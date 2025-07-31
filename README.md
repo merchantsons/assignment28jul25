@@ -14,11 +14,11 @@ Roll Number  : 00037391 <br>
 Days / Time  : Monday - 02:00 PM - 05:00 PM<br>
 Center       : Governor House Karachi (Onsite)<br>
 
-# console_support_agents/
-│
-├── main.py              # Entry point with the console loop
-├── context.py           # Stores and updates global context
-├── tools.py             # Tools with is_enabled-style logic
-├── agents.py            # Agent functions (triage, billing, tech)
-├── handoff.py           # Handoff logic / agent switching
-├── .env                 # API key
+# console_support_agents/<br>
+│<br>
+├── main.py              # Entry point with the console loop<br>
+├── context.py           # Stores and updates global context<br>
+├── tools.py             # Tools with is_enabled-style logic<br>
+├── agents.py            # Agent functions (triage, billing, tech)<br>
+├── handoff.py           # Handoff logic / agent switching<br>
+├── .env                 # API key<br>
